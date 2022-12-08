@@ -3,24 +3,24 @@
 
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Rashini Hansika<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Janith Chathusha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 ### Connect with me so that we can share our skills:
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/rashini-hansika"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/rashiniambegoda//"><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/__rashi_nee/"><img height="30" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
-     <a href="rashinihansika98@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/janith-chathusha/"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/Janith.chathusha"><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/jchathu99/"><img height="30" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
+     <a href="chathushadayawansha1346@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
    
 </p>
 
 <hr>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 <br>
 
